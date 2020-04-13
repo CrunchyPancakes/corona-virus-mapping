@@ -7,7 +7,6 @@ library(tidyverse)
 library(leaflet.extras)
 library(htmltools)
 
-setwd("C:\Users\30mat\Documents\VUW\Corona Virus Data Analytics\Mapping")
 nodes <- read_csv("data/node_list_with_lat_lon.csv")
 edges <- read_csv("data/edge_list.csv")
 
