@@ -1,0 +1,38 @@
+﻿id,NCOV,?1,?2,?3,continent,country,region,region_2,origin,origin_2,?4,GENOME,_29903,species,age,gender,lab  ,institute  ,?5,link,?6,?7
+20VR0174,ncov,?,?,27/02/2020,Oceania,New Zealand,Auckland,Auckland,Europe,Iran,,genome,29903,Human,>60,Female,LabPLUS,Institute of Environmental Science and Research (ESR),Storey et al,https://www.gisaid.org,?,5/03/2020
+20VR0189,ncov,?,?,2/03/2020,Oceania,New Zealand,Auckland,Auckland,Europe,Italy,,genome,29903,Human,46,Female,LabPLUS,Institute of Environmental Science and Research (ESR),?,https://www.gisaid.org,?,22/03/2020
+20VR0196,ncov,?,?,4/03/2020,Oceania,New Zealand,Auckland,Auckland,Europe,Italy,,genome,29903,Human,41,Male,LabPLUS,Institute of Environmental Science and Research (ESR),?,https://www.gisaid.org,?,22/03/2020
+20VR0206,ncov,?,?,5/03/2020,Oceania,New Zealand,Auckland,Auckland,Europe,Iran,,genome,29903,Human,40,Female,LabPLUS,Institute of Environmental Science and Research (ESR),?,https://www.gisaid.org,?,22/03/2020
+20VR0275,ncov,?,?,15/03/2020,Oceania,New Zealand,Combined Wellington,Combined Wellington,USA,USA,,genome,29903,Human,71,Male,Wellington SCL (WN),Institute of Environmental Science and Research (ESR),?,https://www.gisaid.org,?,22/03/2020
+20VR0276,ncov,?,?,15/03/2020,Oceania,New Zealand,Combined Wellington,Combined Wellington,USA,USA,,genome,29903,Human,35,Male,Wellington SCL (WN),Institute of Environmental Science and Research (ESR),?,https://www.gisaid.org,?,22/03/2020
+20VR0677,ncov,?,?,19/03/2020,Oceania,New Zealand,Combined Wellington,Combined Wellington,,,,genome,29903,Human,33,Male,Wellington SCL (WR),Institute of Environmental Science and Research (ESR),?,https://www.gisaid.org,?,23/03/2020
+20VR0334,ncov,?,?,12/03/2020,Oceania,New Zealand,Auckland,Auckland,,,,genome,29903,Human,68,Male,LabPLUS,Institute of Environmental Science and Research (ESR),?,?,?,1/04/2020
+20VR0461,ncov,?,?,13/03/2020,Oceania,New Zealand,Southern,Southern,,,,genome,29903,Human,32,Female,Southern Community Labs Dunedin,Institute of Environmental Science and Research (ESR),?,?,?,1/04/2020
+20VR0462,ncov,?,?,16/03/2020,Oceania,New Zealand,Southern,Southern,Europe,?,,genome,29903,Human,,Male,Southern Community Labs Dunedin,Institute of Environmental Science and Research (ESR),?,?,?,1/04/2020
+20VR0465,ncov,?,?,17/03/2020,Oceania,New Zealand,Waikato,Waikato,Oceania,Australia,,genome,29903,Human,,Female,Waikato Hospital,Institute of Environmental Science and Research (ESR),?,?,?,1/04/2020
+20VR0466,ncov,?,?,17/03/2020,Oceania,New Zealand,Waikato,Waikato,,,,genome,29903,Human,72,Male,Waikato Hospital,Institute of Environmental Science and Research (ESR),?,?,?,1/04/2020
+20VR0514,ncov,?,?,17/03/2020,Oceania,New Zealand,Combined Wellington,Combined Wellington,,,,genome,29903,Human,41,Male,Wellington SCL (WN),Institute of Environmental Science and Research (ESR),?,?,?,1/04/2020
+20VR0593,ncov,?,?,18/03/2020,Oceania,New Zealand,Combined Wellington,Combined Wellington,,,,genome,29903,Human,58,Male,Wellington SCL (WN),Institute of Environmental Science and Research (ESR),?,?,?,1/04/2020
+20VR0634,ncov,?,?,17/03/2020,Oceania,New Zealand,Waikato,Waikato,,,,genome,29903,Human,,Male,Waikato Hospital,Institute of Environmental Science and Research (ESR),?,?,?,1/04/2020
+20VR0635,ncov,?,?,17/03/2020,Oceania,New Zealand,Southern,Southern,,,,genome,29903,Human,15,Male,Southern Community Labs Dunedin,Institute of Environmental Science and Research (ESR),?,?,?,1/04/2020
+20VR0636,ncov,?,?,17/03/2020,Oceania,New Zealand,Southern,Southern,,,,genome,29903,Human,47,Male,Southern Community Labs Dunedin,Institute of Environmental Science and Research (ESR),?,?,?,1/04/2020
+20VR1076,ncov,?,?,22/03/2020,Oceania,New Zealand,Wairarapa,Wairarapa,,,,genome,29903,Human,,Male,Wellington SCL (WR),Institute of Environmental Science and Research (ESR),?,?,?,1/04/2020
+20VR1109,ncov,?,?,3/03/2020,Oceania,New Zealand,Waikato,Waikato,,,,genome,29903,Human,,Male,Waikato Hospital,Institute of Environmental Science and Research (ESR),?,?,?,1/04/2020
+20VR1276,ncov,?,?,20/03/2020,Oceania,New Zealand,Auckland,Auckland,,,,genome,29903,Human,,Male,LabPLUS,Institute of Environmental Science and Research (ESR),?,?,?,1/04/2020
+20VR1280,ncov,?,?,20/03/2020,Oceania,New Zealand,Auckland,Auckland,,,,genome,29903,Human,,Female,LabPLUS,Institute of Environmental Science and Research (ESR),?,?,?,1/04/2020
+20VR1282,ncov,?,?,20/03/2020,Oceania,New Zealand,Auckland,Auckland,,,,genome,29903,Human,,Female,LabPLUS,Institute of Environmental Science and Research (ESR),?,?,?,1/04/2020
+20VR1454,ncov,?,?,22/03/2020,Oceania,New Zealand,Southern,Southern,,,,genome,29903,Human,,Female,Southern Community Labs Dunedin,Institute of Environmental Science and Research (ESR),?,?,?,1/04/2020
+20VR1499,ncov,?,?,22/03/2020,Oceania,New Zealand,Bay of Plenty,Bay of Plenty,,,,genome,29903,Human,,Female,PathLab Bay of Plenty,Institute of Environmental Science and Research (ESR),?,?,?,1/04/2020
+20VR1619,ncov,?,?,23/03/2020,Oceania,New Zealand,Southern,Southern,,,,genome,29903,Human,,Male,Southern Community Labs Dunedin,Institute of Environmental Science and Research (ESR),?,?,?,1/04/2020
+20VR1622,ncov,?,?,24/03/2020,Oceania,New Zealand,Southern,Southern,,,,genome,29903,Human,,Female,Southern Community Labs Dunedin,Institute of Environmental Science and Research (ESR),?,?,?,1/04/2020
+20VR1623,ncov,?,?,24/03/2020,Oceania,New Zealand,Southern,Southern,,,,genome,29903,Human,,Male,Southern Community Labs Dunedin,Institute of Environmental Science and Research (ESR),?,?,?,1/04/2020
+20VR1625,ncov,?,?,24/03/2020,Oceania,New Zealand,Southern,Southern,,,,genome,29903,Human,,Male,Southern Community Labs Dunedin,Institute of Environmental Science and Research (ESR),?,?,?,1/04/2020
+20VR1626,ncov,?,?,23/03/2020,Oceania,New Zealand,Southern,Southern,,,,genome,29903,Human,,Male,Southern Community Labs Dunedin,Institute of Environmental Science and Research (ESR),?,?,?,1/04/2020
+20VR1627,ncov,?,?,23/03/2020,Oceania,New Zealand,Southern,Southern,,,,genome,29903,Human,,Female,Southern Community Labs Dunedin,Institute of Environmental Science and Research (ESR),?,?,?,1/04/2020
+20VR1771,ncov,?,?,26/03/2020,Oceania,New Zealand,Southern,Southern,,,,genome,29903,Human,,Female,Southern Community Labs Dunedin,Institute of Environmental Science and Research (ESR),?,?,?,1/04/2020
+20VR1783,ncov,?,?,26/03/2020,Oceania,New Zealand,Southern,Southern,,,,genome,29903,Human,,Female,Southern Community Labs Dunedin,Institute of Environmental Science and Research (ESR),?,?,?,1/04/2020
+20VR1785,ncov,?,?,26/03/2020,Oceania,New Zealand,Southern,Southern,,,,genome,29903,Human,,Female,Southern Community Labs Dunedin,Institute of Environmental Science and Research (ESR),?,?,?,1/04/2020
+20VR1789,ncov,?,?,24/03/2020,Oceania,New Zealand,Waikato,Waikato,,,,genome,29903,Human,,Male,Waikato Hospital,Institute of Environmental Science and Research (ESR),?,?,?,1/04/2020
+20VR1805,ncov,?,?,29/03/2020,Oceania,New Zealand,Waikato,Waikato,,,,genome,29903,Human,,Male,Waikato Hospital,Institute of Environmental Science and Research (ESR),?,?,?,1/04/2020
+20VR1839,ncov,?,?,28/03/2020,Oceania,New Zealand,Southern,Southern,,,,genome,29903,Human,,Female,Southern Community Labs Dunedin,Institute of Environmental Science and Research (ESR),?,?,?,1/04/2020
+20VR1847,ncov,?,?,28/03/2020,Oceania,New Zealand,Southern,Southern,,,,genome,29903,Human,,Female,Southern Community Labs Dunedin,Institute of Environmental Science and Research (ESR),?,?,?,1/04/2020

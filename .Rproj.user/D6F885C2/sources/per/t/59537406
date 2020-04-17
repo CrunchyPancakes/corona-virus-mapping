@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587019298816.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1563550042",
+    "id" : "59537406",
+    "lastKnownWriteTime" : 1586823909,
+    "last_content_update" : 1586823909,
+    "path" : "~/VUW/Corona Virus Data Analytics/EpiDash-master/EpiDash-master/nzcovid_prep.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "128,0",
+        "scrollLine" : "121"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587083170491.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "8D9ACAB6",
+    "lastKnownWriteTime" : 19421996734742584,
+    "last_content_update" : 1587083170491,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "68A842C1",
+        "caption" : "title",
+        "contentUrl" : "grid_resource/gridviewer.html?env=_rs_no_env&obj=&cache_key=68A842C1",
+        "displayedObservations" : "10",
+        "environment" : "_rs_no_env",
+        "expression" : "structure(list(sourceLon = c(174.7633315, 174.7633315, 174.7633315,  174.7633315, 174.776236, 174.776236, 174.7633315, 168.6626435,  174.776236, 168.6626435), sourceLat = c(-36.8484597, -36.8484597,  -36.8484597, -36.8484597, -41.2864603, -41.2864603, -36.8484597,  -45.0311622, -41.2864603, -45.0311622), targetLon = c(174.7633315,  174.7633315, 174.7633315, 174.776236, 174.776236, 174.7633315,  168.6626435, 174.776236, 168.6626435, 175.662255), targetLat = c(-36.8484597,  -36.8484597, -36.8484597, -41.2864603, -41.2864603, -36.8484597,  -45.0311622, -41.2864603, -45.0311622, -40.950146)), row.names = c(NA,  10L), class = \"data.frame\")",
+        "object" : "",
+        "preview" : "0",
+        "totalObservations" : "10",
+        "variables" : "4"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587019309400.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "178650097",
+    "id" : "9CA6C9B6",
+    "lastKnownWriteTime" : 1586823909,
+    "last_content_update" : 1586823909,
+    "path" : "~/VUW/Corona Virus Data Analytics/EpiDash-master/EpiDash-master/tic2map.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "10,0",
+        "scrollLine" : "2"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

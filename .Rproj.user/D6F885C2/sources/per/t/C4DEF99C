@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587019323069.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4240971061",
+    "id" : "C4DEF99C",
+    "lastKnownWriteTime" : 1586823909,
+    "last_content_update" : 1586823909,
+    "path" : "~/VUW/Corona Virus Data Analytics/EpiDash-master/EpiDash-master/tic2tree.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "66,0",
+        "scrollLine" : "55"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

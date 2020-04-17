@@ -1,0 +1,9 @@
+{
+    "path" : "~/VUW/Corona Virus Data Analytics/Mapping/corona-virus-mapping",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

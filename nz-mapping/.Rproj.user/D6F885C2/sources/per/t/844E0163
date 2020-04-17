@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587082984537.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "154359118",
+    "id" : "844E0163",
+    "lastKnownWriteTime" : 1587083348,
+    "last_content_update" : 1587083348802,
+    "path" : "~/VUW/Corona Virus Data Analytics/Mapping/nz-mapping/static_map.r",
+    "project_path" : "static_map.r",
+    "properties" : {
+        "cursorPosition" : "57,0",
+        "scrollLine" : "42",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587083456937.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1322373357",
+    "id" : "E02F613F",
+    "lastKnownWriteTime" : 1586818869,
+    "last_content_update" : 1586818869,
+    "path" : "~/VUW/Corona Virus Data Analytics/Mapping/corona-virus-mapping/testing_igraph_and_leaflet.r",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "49,0",
+        "scrollLine" : "34"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

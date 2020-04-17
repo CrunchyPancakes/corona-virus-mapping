@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587019008351.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3428787733",
+    "id" : "BFB1143A",
+    "lastKnownWriteTime" : 1586823909,
+    "last_content_update" : 1586823909,
+    "path" : "~/VUW/Corona Virus Data Analytics/EpiDash-master/EpiDash-master/epiboard/app.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "136,166",
+        "scrollLine" : "125"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

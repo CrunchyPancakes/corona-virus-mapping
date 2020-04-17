@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587082960838.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2385854548",
+    "id" : "626506D",
+    "lastKnownWriteTime" : 1586671739,
+    "last_content_update" : 1586671739,
+    "path" : "~/VUW/Corona Virus Data Analytics/Mapping/corona-virus-mapping/graph on map tutorial.r",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "0,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
